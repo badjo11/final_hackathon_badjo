@@ -129,8 +129,7 @@ const ProductContextProvider = (props) => {
           brand = item.brand;
         }
       });
-      // console.log(brand);
-      // brand = brand.brand;
+
       const recom = data.filter((item) => {
         return item.brand === brand;
       });

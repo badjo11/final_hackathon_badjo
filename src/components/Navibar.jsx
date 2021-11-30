@@ -88,7 +88,9 @@ const Navibar = () => {
           {googleUser ? (
             <>
               {googleUser.email === "beknazaromurbek@gmail.com" ? (
-                <Link to="/chat">Admin</Link>
+                <Link to="/chat" style={{ textDecoration: "none" }}>
+                  <Button className="me-3">Admin</Button>
+                </Link>
               ) : (
                 <Link to={`/chat/${googleUser.email}`}>
                   <Button className="me-3">Chat with admin</Button>

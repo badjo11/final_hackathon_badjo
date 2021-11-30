@@ -155,11 +155,6 @@
       "username": "Бекназар Омурбек",
       "email": "beknazaromurbek@gmail.com",
       "id": 2
-    },
-    {
-      "username": "bayel osorov",
-      "email": "osorov.bayel@gmail.com",
-      "id": 3
     }
   ],
   "comments": [
@@ -469,7 +464,7 @@
   "subscribers": [],
   "chats": [
     {
-      "text": "true",
+      "text": "I like you",
       "owner": "BEKNAZAR OMURBEK",
       "email": "1604.01036@manas.edu.kg",
       "getter": "beknazaromurbek@gmail.com",
@@ -496,22 +491,22 @@
       "id": 3
     },
     {
-      "text": "Bael",
-      "owner": "bayel osorov",
-      "email": "osorov.bayel@gmail.com",
+      "text": "qweqweqw",
+      "owner": "beknazaromurbek@gmail.com",
       "getter": "beknazaromurbek@gmail.com",
-      "createdAt": "2021-11-30T10:53:20.830Z",
-      "createdAtMs": 1638269600830,
-      "id": 4
+      "email": ".01036@manas.edu.kg",
+      "createdAt": "2021-11-30T10:39:30.639Z",
+      "createdAtMs": 1638268770639,
+      "id": 6
     },
     {
       "text": "qweqweqw",
       "owner": "beknazaromurbek@gmail.com",
+      "getter": "beknazaromurbek@gmail.com",
       "email": "beknazaromurbek@gmail.com",
-      "getter": "osorov.bayel@gmail.com",
-      "createdAt": "2021-11-30T10:54:24.891Z",
-      "createdAtMs": 1638269664891,
-      "id": 5
+      "createdAt": "2021-11-30T10:39:30.639Z",
+      "createdAtMs": 1638268770639,
+      "id": 7
     }
   ]
 }
