@@ -1,0 +1,9 @@
+export const APIproducts = "http://localhost:8000/products";
+export const APIcomments = "http://localhost:8000/comments";
+export const APIusers = "http://localhost:8000/users";
+export const APIfeedbacks = "http://localhost:8000/feedbacks";
+export const APIlikes = "http://localhost:8000/likes";
+export const APIhistory = "http://localhost:8000/history";
+export const APIviews = "http://localhost:8000/views";
+export const APIsubscribers = "http://localhost:8000/subscribers";
+export const APIchats = "http://localhost:8000/chats";
