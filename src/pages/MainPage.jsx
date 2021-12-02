@@ -32,7 +32,7 @@ const MainPage = () => {
             {products ? (
               <Card.Img
                 style={{ width: "135px", margin: "0 auto", padding: "20px" }}
-                src={products[0].image}
+                src="https://i.ebayimg.com/images/g/-ywAAOSwOWdb76O0/s-l1600.jpg"
               />
             ) : (
               <></>
@@ -57,7 +57,7 @@ const MainPage = () => {
             {products ? (
               <Card.Img
                 style={{ width: "100px", margin: "0 auto", padding: "15px" }}
-                src={products[1].image}
+                src="https://images.ru.prom.st/826717957_w640_h640_krossovki-uniseks-nike.jpg"
               />
             ) : (
               <></>
@@ -82,7 +82,7 @@ const MainPage = () => {
             {products ? (
               <Card.Img
                 style={{ width: "100px", margin: "0 auto", padding: "15px" }}
-                src={products[2].image}
+                src="https://fight-space.ru/93100-home_default/krossovki-nike-air-jordan-3.jpg"
               />
             ) : (
               <></>
@@ -119,7 +119,7 @@ const MainPage = () => {
             {products ? (
               <Card.Img
                 style={{ width: "130px", margin: "0 auto", padding: "20px" }}
-                src={products[3].image}
+                src="https://fight-space.ru/93100-home_default/krossovki-nike-air-jordan-3.jpg"
               />
             ) : (
               <></>
@@ -143,7 +143,7 @@ const MainPage = () => {
             {products ? (
               <Card.Img
                 style={{ width: "130px", margin: "0 auto", padding: "20px" }}
-                src={products[4].image}
+                src="https://sneakernews.com/wp-content/uploads/2017/10/ua-curry-4-championship-pack-release-date.jpg"
               />
             ) : (
               <></>
@@ -167,7 +167,7 @@ const MainPage = () => {
             {products ? (
               <Card.Img
                 style={{ width: "130px", margin: "0 auto", padding: "20px" }}
-                src={products[5].image}
+                src="https://images.solecollector.com/complex/images/fl_lossy,q_auto/c_crop,h_1169,w_2116,x_691,y_848/c_scale,w_690,dpr_2.0/v1/es8ewmhhz6o5hb8vjzdv/under-armour-curry-6-fox-theatre-bs3020612-004-lateral"
               />
             ) : (
               <></>
@@ -200,7 +200,7 @@ const MainPage = () => {
                   <img
                     className=" d-block"
                     style={{ width: "50vw", height: "50vh" }}
-                    src={products[6].image}
+                    src="http://kicksdeals.ca/wp-content/uploads/2018/01/air-jordan-3-black-cement-releasing-in-february-02.jpg"
                     alt="First slide"
                   />
                 ) : (
@@ -209,8 +209,8 @@ const MainPage = () => {
                 <Carousel.Caption>
                   {products ? (
                     <>
-                      <h3 style={{ color: "white" }}>{products[10].name}</h3>
-                      <p>{products[10].brand}</p>
+                      <h3 style={{ color: "white" }}>Jordan 12</h3>
+                      <p>Jordan</p>
                     </>
                   ) : (
                     <></>
@@ -224,12 +224,12 @@ const MainPage = () => {
                     <img
                       className="d-block"
                       style={{ width: "50vw", height: "50vh" }}
-                      src={products[7].image}
+                      src="https://avatars.mds.yandex.net/get-mpic/5332179/img_id7954960312011724978.jpeg/orig"
                       alt="Second slide"
                     />
                     <Carousel.Caption>
-                      <h3>{products[7].name}</h3>
-                      <p>{products[7].brand}</p>
+                      <h3>Curry 4</h3>
+                      <p>Under Armour</p>
                     </Carousel.Caption>
                   </>
                 ) : (
@@ -242,12 +242,12 @@ const MainPage = () => {
                     <img
                       className="d-block "
                       style={{ width: "50vw", height: "50vh" }}
-                      src={products[8].image}
+                      src="https://styles.ua/content/images/36/1000x760l80mc0/53237673630564.jpeg"
                       alt="Third slide"
                     />
                     <Carousel.Caption>
-                      <h3>{products[8].name}</h3>
-                      <p>{products[8].brand}</p>
+                      <h3>Lebron 13 low</h3>
+                      <p>Lebron</p>
                     </Carousel.Caption>
                   </>
                 ) : (
@@ -333,7 +333,7 @@ const MainPage = () => {
                     <img
                       className="adaptive-pic"
                       style={{ width: "50%" }}
-                      src={products[9].image}
+                      src="https://jordan23.su/106172-home_default/nike-lebron-18.jpg"
                       alt=""
                     />
                   ) : (

@@ -1,68 +1,20 @@
 {
   "products": [
     {
-      "name": "Jordan 1 air",
-      "brand": "Jordan",
-      "description": "You can fly without wings",
-      "image": "https://images.ru.prom.st/826717957_w640_h640_krossovki-uniseks-nike.jpg",
-      "price": "7000",
-      "id": 1
-    },
-    {
-      "name": "Stephen Curry 4",
-      "brand": "Under Armour",
-      "description": "4th time MVP's personal sneakears",
-      "image": "https://www.slamdunk.ru/uploads/monthly_2017_10/ua-curry-more-magic-release-info.jpg.f533c630133bcf5edede674bf9a7ea49.jpg",
-      "price": "6500",
-      "id": 3
-    },
-    {
-      "name": "Kobe Bryant 4k ultra",
-      "brand": "Kobe Bryant",
-      "description": "RIP Kobe",
-      "image": "https://i.ebayimg.com/images/g/-ywAAOSwOWdb76O0/s-l1600.jpg",
-      "price": "4300",
-      "id": 4
-    },
-    {
-      "name": "Air Jordan 3",
-      "brand": "Jordan",
-      "description": "I wanna fly",
-      "image": "https://fight-space.ru/93100-home_default/krossovki-nike-air-jordan-3.jpg",
-      "price": "6540",
-      "id": 5
-    },
-    {
       "name": "Nike Air Jordan Max",
       "brand": "Jordan",
       "description": "We never fall",
       "image": "https://sneakernews.com/wp-content/uploads/2019/03/jordan-3-tinker-air-max-release-date-1.jpg",
       "price": "5400",
-      "id": 6
-    },
-    {
-      "name": "Nike Air Jordan Ultra fly",
-      "brand": "Jordan",
-      "description": "Description",
-      "image": "http://kicksdeals.ca/wp-content/uploads/2018/01/air-jordan-3-black-cement-releasing-in-february-02.jpg",
-      "price": "4800",
-      "id": 7
-    },
-    {
-      "name": "UA Curry 4 'More Rings'",
-      "brand": "Under Armour",
-      "description": "Description",
-      "image": "https://sneakernews.com/wp-content/uploads/2017/10/ua-curry-4-championship-pack-release-date.jpg",
-      "price": "6300",
-      "id": 9
+      "id": 1
     },
     {
       "name": "UA Curry 6",
       "brand": "Under Armour",
       "description": "Best Of the Besst",
       "image": "https://images.solecollector.com/complex/images/fl_lossy,q_auto/c_crop,h_1169,w_2116,x_691,y_848/c_scale,w_690,dpr_2.0/v1/es8ewmhhz6o5hb8vjzdv/under-armour-curry-6-fox-theatre-bs3020612-004-lateral",
-      "price": "5500",
-      "id": 10
+      "price": "123",
+      "id": 3
     },
     {
       "name": "Curry 5 'Tan'",
@@ -70,7 +22,7 @@
       "description": "Best shoe in ur life",
       "image": "https://cdn.weartesters.com/wp-content/uploads/2018/09/under-armour-curry-5-black-multicolor-tokyo-1024x1024.jpg",
       "price": "4800",
-      "id": 11
+      "id": 4
     },
     {
       "name": "Kyire 5 ",
@@ -78,7 +30,7 @@
       "description": "Uncle Irving time",
       "image": "http://www.lebron18.net/bmz_cache/a/all-nike-kyire-5-seaweedjpeg.image.1000x667.jpeg",
       "price": "6500",
-      "id": 12
+      "id": 5
     },
     {
       "name": "Nike Kyrie 4",
@@ -86,7 +38,7 @@
       "description": "Kyrie come back",
       "image": "https://sneakernews.com/wp-content/uploads/2018/03/nike-kyrie-4-black-silver-orange-green-943806-010-5.jpg",
       "price": "7500",
-      "id": 13
+      "id": 6
     },
     {
       "name": "Lebron Witness V",
@@ -94,7 +46,7 @@
       "description": "Lebron ring time",
       "image": "https://avatars.mds.yandex.net/get-mpic/5332179/img_id7954960312011724978.jpeg/orig",
       "price": "5800",
-      "id": 14
+      "id": 7
     },
     {
       "name": "Nike Kyrie 4 Low",
@@ -102,7 +54,7 @@
       "description": "Description",
       "image": "https://styles.ua/content/images/36/1000x760l80mc0/53237673630564.jpeg",
       "price": "6100",
-      "id": 15
+      "id": 8
     },
     {
       "name": "Lebron x111",
@@ -110,7 +62,7 @@
       "description": "Lebron limited shoes",
       "image": "http://images.performgroup.com/di/library/sporting_news/b5/8d/nike-lebron-xiii-25k-courtesy-ftr-110315_7yfphlutlg3c1ruojm0hue0oq.jpg",
       "price": "8200",
-      "id": 16
+      "id": 9
     },
     {
       "name": "Lebron 13 Low",
@@ -118,7 +70,7 @@
       "description": "Ultra fly",
       "image": "https://ofnike.ru/image/cache/catalog/products/muzhchiny/m2145/xcherncvet1-500x500.jpg.pagespeed.ic.q0bLo5Pf-D.jpg",
       "price": "6700",
-      "id": 17
+      "id": 10
     },
     {
       "name": "Lebron 2015",
@@ -126,7 +78,7 @@
       "description": "Descr",
       "image": "https://lh3.googleusercontent.com/-fFn_6g6yUFE/Vk8wwhGTs6I/AAAAAAAEi8Q/Zeb_uNj6M-U/s600-Ic42/nike-lebron-13-gr-multicolor-5-05.jpg",
       "price": "5900",
-      "id": 18
+      "id": 11
     },
     {
       "name": "Lebron 18",
@@ -134,7 +86,7 @@
       "description": "Descr",
       "image": "https://jordan23.su/106172-home_default/nike-lebron-18.jpg",
       "price": "7220",
-      "id": 19
+      "id": 12
     },
     {
       "name": "Lebron XI",
@@ -142,6 +94,62 @@
       "description": "Lebron",
       "image": "https://images.satu.kz/9171930_w640_h640_krossovki-nike-lebron.jpg",
       "price": "8200",
+      "id": 13
+    },
+    {
+      "name": "Stephen Curry 4",
+      "brand": "Under Armour",
+      "description": "Best Shoe",
+      "image": "https://www.slamdunk.ru/uploads/monthly_2017_10/ua-curry-more-magic-release-info.jpg.f533c630133bcf5edede674bf9a7ea49.jpg",
+      "price": "5000",
+      "id": 14
+    },
+    {
+      "name": "Kobe bryan 24",
+      "brand": "Kobe Bryant",
+      "description": "RIP KOBE",
+      "image": "https://i.ebayimg.com/images/g/-ywAAOSwOWdb76O0/s-l1600.jpg",
+      "price": "6500",
+      "id": 15
+    },
+    {
+      "name": "wer",
+      "brand": "Lebron",
+      "description": "wqerwerwe",
+      "image": "wer",
+      "price": "wer",
+      "id": 16
+    },
+    {
+      "name": "Jordan 1 air low",
+      "brand": "Jordan",
+      "description": "Fly like a Jordan",
+      "image": "https://images.ru.prom.st/826717957_w640_h640_krossovki-uniseks-nike.jpg",
+      "price": "6000",
+      "id": 17
+    },
+    {
+      "name": "UA curry 4 low",
+      "brand": "Under Armour",
+      "description": "Stephen Curry's favorite shoes",
+      "image": "https://sneakernews.com/wp-content/uploads/2017/10/ua-curry-4-championship-pack-release-date.jpg",
+      "price": "6700",
+      "id": 18
+    },
+    {
+      "name": "Air Jordan low 2",
+      "brand": "Jordan",
+      "description": "You can fly without wings",
+      "image": "https://fight-space.ru/93100-home_default/krossovki-nike-air-jordan-3.jpg",
+      "price": "7000",
+      "id": 19
+    },
+    {
+      "name": "Curry 6",
+      "brand": "Under Armour",
+      "description": "Steph Curry's shoes",
+      "image": "http://kicksdeals.ca/wp-content/uploads/2018/01/air-jordan-3-black-cement-releasing-in-february-02.jpg",
+      "price": "5000",
       "id": 20
     }
   ],
@@ -155,25 +163,14 @@
       "username": "Бекназар Омурбек",
       "email": "beknazaromurbek@gmail.com",
       "id": 2
+    },
+    {
+      "username": "Айнур Байтемирова",
+      "email": "baitemirovaa6@gmail.com",
+      "id": 3
     }
   ],
   "comments": [
-    {
-      "text": "qwe",
-      "owner": "BEKNAZAR OMURBEK",
-      "productId": "1",
-      "createdAt": "2021-11-28T17:27:13.616Z",
-      "createdAtMs": 1638120433616,
-      "id": 2
-    },
-    {
-      "text": "wer",
-      "owner": "BEKNAZAR OMURBEK",
-      "productId": "1",
-      "createdAt": "2021-11-29T07:55:48.564Z",
-      "createdAtMs": 1638172548564,
-      "id": 3
-    },
     {
       "text": "qweqwe",
       "owner": "BEKNAZAR OMURBEK",
@@ -181,14 +178,6 @@
       "createdAt": "2021-11-30T05:15:59.135Z",
       "createdAtMs": 1638249359135,
       "id": 4
-    },
-    {
-      "text": "123123",
-      "owner": "BEKNAZAR OMURBEK",
-      "productId": "1",
-      "createdAt": "2021-11-30T05:20:09.175Z",
-      "createdAtMs": 1638249609175,
-      "id": 5
     },
     {
       "text": "werwer",
@@ -209,28 +198,10 @@
   ],
   "feedbacks": [
     {
-      "owner": "1604.01036@manas.edu.kg",
-      "productId": "1",
-      "rate": 2,
-      "id": 1
-    },
-    {
-      "owner": "beknazaromurbek@gmail.com",
-      "productId": "1",
-      "rate": 4,
-      "id": 2
-    },
-    {
       "owner": "beknazaromurbek@gmail.com",
       "productId": "6",
       "rate": 4,
       "id": 3
-    },
-    {
-      "owner": "1604.01036@manas.edu.kg",
-      "productId": "9",
-      "rate": 3,
-      "id": 4
     },
     {
       "owner": "1604.01036@manas.edu.kg",
@@ -241,7 +212,7 @@
     {
       "owner": "1604.01036@manas.edu.kg",
       "productId": "12",
-      "rate": 3,
+      "rate": 4,
       "id": 6
     },
     {
@@ -258,12 +229,6 @@
     },
     {
       "owner": "1604.01036@manas.edu.kg",
-      "productId": "3",
-      "rate": 4,
-      "id": 9
-    },
-    {
-      "owner": "1604.01036@manas.edu.kg",
       "productId": "7",
       "rate": 3,
       "id": 10
@@ -275,43 +240,13 @@
       "id": 11
     },
     {
-      "owner": "beknazaromurbek@gmail.com",
-      "productId": "9",
+      "owner": "1604.01036@manas.edu.kg",
+      "productId": "6",
       "rate": 3,
       "id": 12
     }
   ],
   "likes": [
-    {
-      "owner": "beknazaromurbek@gmail.com",
-      "productId": "1",
-      "rate": 0,
-      "id": 1
-    },
-    {
-      "owner": "1604.01036@manas.edu.kg",
-      "productId": "3",
-      "rate": 1,
-      "id": 2
-    },
-    {
-      "owner": "1604.01036@manas.edu.kg",
-      "productId": "5",
-      "rate": 0,
-      "id": 3
-    },
-    {
-      "owner": "beknazaromurbek@gmail.com",
-      "productId": "5",
-      "rate": 1,
-      "id": 4
-    },
-    {
-      "owner": "1604.01036@manas.edu.kg",
-      "productId": "1",
-      "rate": 1,
-      "id": 5
-    },
     {
       "owner": "1604.01036@manas.edu.kg",
       "productId": "13",
@@ -349,9 +284,9 @@
       "id": 11
     },
     {
-      "owner": "beknazaromurbek@gmail.com",
-      "productId": "9",
-      "rate": 1,
+      "owner": "1604.01036@manas.edu.kg",
+      "productId": "6",
+      "rate": 0,
       "id": 12
     }
   ],
@@ -360,52 +295,6 @@
       "ownerMail": "1604.01036@manas.edu.kg",
       "cart": {
         "products": [
-          {
-            "product": {
-              "name": "Jordan 1 air",
-              "brand": "Jordan",
-              "description": "You can fly without wings",
-              "image": "https://images.ru.prom.st/826717957_w640_h640_krossovki-uniseks-nike.jpg",
-              "price": "7000",
-              "id": 1
-            },
-            "count": 1,
-            "subPrice": 7000
-          },
-          {
-            "product": {
-              "name": "Stephen Curry 4",
-              "brand": "Under Armour",
-              "description": "4th time MVP's personal sneakears",
-              "image": "https://www.slamdunk.ru/uploads/monthly_2017_10/ua-curry-more-magic-release-info.jpg.f533c630133bcf5edede674bf9a7ea49.jpg",
-              "price": "6500",
-              "id": 3
-            },
-            "count": 1,
-            "subPrice": 6500
-          }
-        ],
-        "totalPrice": 13500
-      },
-      "date": "2021-11-29T09:47:18.193Z",
-      "id": 1
-    },
-    {
-      "ownerMail": "1604.01036@manas.edu.kg",
-      "cart": {
-        "products": [
-          {
-            "product": {
-              "name": "Jordan 1 air",
-              "brand": "Jordan",
-              "description": "You can fly without wings",
-              "image": "https://images.ru.prom.st/826717957_w640_h640_krossovki-uniseks-nike.jpg",
-              "price": "7000",
-              "id": 1
-            },
-            "count": 1,
-            "subPrice": 7000
-          },
           {
             "product": {
               "name": "Air Jordan 3",
@@ -419,9 +308,43 @@
             "subPrice": 6540
           }
         ],
-        "totalPrice": 13540
+        "totalPrice": 6540
       },
-      "date": "2021-11-29T10:29:35.231Z",
+      "date": "2021-11-30T15:38:48.611Z",
+      "id": 1
+    },
+    {
+      "ownerMail": "1604.01036@manas.edu.kg",
+      "cart": {
+        "products": [
+          {
+            "product": {
+              "name": "Nike Air Jordan Max",
+              "brand": "Jordan",
+              "description": "We never fall",
+              "image": "https://sneakernews.com/wp-content/uploads/2019/03/jordan-3-tinker-air-max-release-date-1.jpg",
+              "price": "5400",
+              "id": 6
+            },
+            "count": "2",
+            "subPrice": 10800
+          },
+          {
+            "product": {
+              "name": "Nike Air Jordan Ultra fly",
+              "brand": "Jordan",
+              "description": "Description",
+              "image": "http://kicksdeals.ca/wp-content/uploads/2018/01/air-jordan-3-black-cement-releasing-in-february-02.jpg",
+              "price": "4800",
+              "id": 7
+            },
+            "count": 1,
+            "subPrice": 4800
+          }
+        ],
+        "totalPrice": 15600
+      },
+      "date": "2021-11-30T18:43:48.204Z",
       "id": 2
     },
     {
@@ -430,20 +353,32 @@
         "products": [
           {
             "product": {
-              "name": "Kobe Bryant 4k ultra",
-              "brand": "Kobe Bryant",
-              "description": "RIP Kobe",
-              "image": "https://i.ebayimg.com/images/g/-ywAAOSwOWdb76O0/s-l1600.jpg",
-              "price": "4300",
-              "id": 4
+              "name": "UA Curry 6",
+              "brand": "Under Armour",
+              "description": "Best Of the Besst",
+              "image": "https://images.solecollector.com/complex/images/fl_lossy,q_auto/c_crop,h_1169,w_2116,x_691,y_848/c_scale,w_690,dpr_2.0/v1/es8ewmhhz6o5hb8vjzdv/under-armour-curry-6-fox-theatre-bs3020612-004-lateral",
+              "price": "123",
+              "id": 3
+            },
+            "count": "2",
+            "subPrice": 246
+          },
+          {
+            "product": {
+              "name": "Nike Air Jordan Max",
+              "brand": "Jordan",
+              "description": "We never fall",
+              "image": "https://sneakernews.com/wp-content/uploads/2019/03/jordan-3-tinker-air-max-release-date-1.jpg",
+              "price": "5400",
+              "id": 1
             },
             "count": 1,
-            "subPrice": 4300
+            "subPrice": 5400
           }
         ],
-        "totalPrice": 4300
+        "totalPrice": 5646
       },
-      "date": "2021-11-29T10:36:09.865Z",
+      "date": "2021-11-30T19:04:45.927Z",
       "id": 3
     }
   ],
@@ -451,62 +386,143 @@
     {
       "ownerMail": "1604.01036@manas.edu.kg",
       "product": {
-        "name": "Jordan 1 air",
+        "name": "Air Jordan 3",
         "brand": "Jordan",
-        "description": "You can fly without wings",
-        "image": "https://images.ru.prom.st/826717957_w640_h640_krossovki-uniseks-nike.jpg",
-        "price": "7000",
-        "id": 1
+        "description": "I wanna fly",
+        "image": "https://fight-space.ru/93100-home_default/krossovki-nike-air-jordan-3.jpg",
+        "price": "6540",
+        "id": 5
       },
-      "id": 1
-    }
-  ],
-  "subscribers": [],
-  "chats": [
-    {
-      "text": "I like you",
-      "owner": "BEKNAZAR OMURBEK",
-      "email": "1604.01036@manas.edu.kg",
-      "getter": "beknazaromurbek@gmail.com",
-      "createdAt": "2021-11-30T10:39:14.815Z",
-      "createdAtMs": 1638268754815,
       "id": 1
     },
     {
-      "text": "qweqweqw",
-      "owner": "beknazaromurbek@gmail.com",
-      "getter": "beknazaromurbek@gmail.com",
-      "email": ".01036@manas.edu.kg",
-      "createdAt": "2021-11-30T10:39:30.639Z",
-      "createdAtMs": 1638268770639,
+      "ownerMail": "1604.01036@manas.edu.kg",
+      "product": {
+        "name": "Nike Air Jordan Max",
+        "brand": "Jordan",
+        "description": "We never fall",
+        "image": "https://sneakernews.com/wp-content/uploads/2019/03/jordan-3-tinker-air-max-release-date-1.jpg",
+        "price": "5400",
+        "id": 6
+      },
       "id": 2
     },
     {
-      "text": "qweqweqwe",
-      "owner": "beknazaromurbek@gmail.com",
-      "email": "beknazaromurbek@gmail.com",
-      "getter": "1604.01036@manas.edu.kg",
-      "createdAt": "2021-11-30T10:49:28.197Z",
-      "createdAtMs": 1638269368197,
+      "ownerMail": "1604.01036@manas.edu.kg",
+      "product": {
+        "name": "UA Curry 6",
+        "brand": "Under Armour",
+        "description": "Best Of the Besst",
+        "image": "https://images.solecollector.com/complex/images/fl_lossy,q_auto/c_crop,h_1169,w_2116,x_691,y_848/c_scale,w_690,dpr_2.0/v1/es8ewmhhz6o5hb8vjzdv/under-armour-curry-6-fox-theatre-bs3020612-004-lateral",
+        "price": "5500",
+        "id": 10
+      },
       "id": 3
     },
     {
-      "text": "qweqweqw",
-      "owner": "beknazaromurbek@gmail.com",
+      "ownerMail": "1604.01036@manas.edu.kg",
+      "product": {
+        "name": "Nike Air Jordan Ultra fly",
+        "brand": "Jordan",
+        "description": "Description",
+        "image": "http://kicksdeals.ca/wp-content/uploads/2018/01/air-jordan-3-black-cement-releasing-in-february-02.jpg",
+        "price": "4800",
+        "id": 7
+      },
+      "id": 4
+    },
+    {
+      "ownerMail": "1604.01036@manas.edu.kg",
+      "product": {
+        "name": "Lebron 18",
+        "brand": "Lebron",
+        "description": "Descr",
+        "image": "https://jordan23.su/106172-home_default/nike-lebron-18.jpg",
+        "price": "7220",
+        "id": 12
+      },
+      "id": 5
+    }
+  ],
+  "subscribers": [
+    {
+      "ownerMail": "1604.01036@manas.edu.kg",
+      "discount": 20,
+      "id": 1
+    }
+  ],
+  "chats": [
+    {
+      "text": "Здравствуйте, это Айнур, покупатель",
+      "owner": "Айнур Байтемирова",
+      "email": "baitemirovaa6@gmail.com",
       "getter": "beknazaromurbek@gmail.com",
-      "email": ".01036@manas.edu.kg",
-      "createdAt": "2021-11-30T10:39:30.639Z",
-      "createdAtMs": 1638268770639,
+      "createdAt": "2021-11-30T18:31:18.679Z",
+      "createdAtMs": 1638297078679,
+      "id": 1
+    },
+    {
+      "text": "Здравствуйте, имеются ли у вас баскетбольные мячи?",
+      "owner": "BEKNAZAR OMURBEK",
+      "email": "1604.01036@manas.edu.kg",
+      "getter": "beknazaromurbek@gmail.com",
+      "createdAt": "2021-11-30T18:46:18.735Z",
+      "createdAtMs": 1638297978735,
+      "id": 2
+    },
+    {
+      "text": "2ой",
+      "owner": "BEKNAZAR OMURBEK",
+      "email": "1604.01036@manas.edu.kg",
+      "getter": "beknazaromurbek@gmail.com",
+      "createdAt": "2021-11-30T18:46:23.983Z",
+      "createdAtMs": 1638297983983,
+      "id": 3
+    },
+    {
+      "text": "Нет, к сожалению не имеются",
+      "owner": "beknazaromurbek@gmail.com",
+      "email": "beknazaromurbek@gmail.com",
+      "getter": "1604.01036@manas.edu.kg",
+      "createdAt": "2021-11-30T18:47:10.684Z",
+      "createdAtMs": 1638298030684,
+      "id": 4
+    },
+    {
+      "text": "Привет",
+      "owner": "beknazaromurbek@gmail.com",
+      "email": "beknazaromurbek@gmail.com",
+      "getter": "baitemirovaa6@gmail.com",
+      "createdAt": "2021-11-30T18:47:20.496Z",
+      "createdAtMs": 1638298040496,
+      "id": 5
+    },
+    {
+      "text": "Бекназар",
+      "owner": "BEKNAZAR OMURBEK",
+      "email": "1604.01036@manas.edu.kg",
+      "getter": "beknazaromurbek@gmail.com",
+      "createdAt": "2021-11-30T19:07:46.871Z",
+      "createdAtMs": 1638299266871,
       "id": 6
     },
     {
-      "text": "qweqweqw",
+      "text": "Молодец",
       "owner": "beknazaromurbek@gmail.com",
-      "getter": "beknazaromurbek@gmail.com",
       "email": "beknazaromurbek@gmail.com",
-      "createdAt": "2021-11-30T10:39:30.639Z",
-      "createdAtMs": 1638268770639,
+      "getter": "1604.01036@manas.edu.kg",
+      "createdAt": "2021-11-30T19:08:13.082Z",
+      "createdAtMs": 1638299293082,
       "id": 7
+    },
+    {
+      "text": "https://github.com/badjo11/final_hackathon_badjo",
+      "owner": "beknazaromurbek@gmail.com",
+      "email": "beknazaromurbek@gmail.com",
+      "getter": "baitemirovaa6@gmail.com",
+      "createdAt": "2021-11-30T19:09:07.628Z",
+      "createdAtMs": 1638299347628,
+      "id": 8
     }
   ]
 }
